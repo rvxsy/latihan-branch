@@ -1,3 +1,2 @@
 # latihan-branch
-
-GitHub itu asyik loh.
+Belajar GitHub di Dicoding itu seru.
